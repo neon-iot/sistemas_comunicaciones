@@ -1,5 +1,5 @@
-# Demo teaching material template
-## About this teaching material
+# Fundamentals of Communication Systems
+## About this course
 The Fundamentals of Communication Systems course is a course in the basic principles that govern the design and operation of information transmission systems at the level of the physical layer, with emphasis on electrical/electronic substrate systems. It is a first approach to the subject that does not seek to go in-depth or cover specific communication technologies. Instead, the student is given an overview of the area, providing it with the necessary tools to understand and analyze the operation of specific technologies.
 
 ## Main topics
