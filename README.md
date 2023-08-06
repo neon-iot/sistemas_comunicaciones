@@ -25,6 +25,7 @@ of steady and transient systems, and basic knowledge of
 probability.
 * Hardware (SDR kits).
 
+![AckNEON](https://github.com/neon-iot/sistemas_comunicaciones/assets/89226880/91e4e09b-4214-4b51-b74c-2792f9c9d85d)
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
